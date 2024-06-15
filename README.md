@@ -15,6 +15,7 @@ On a broader sense, the API accepts a request that contains a list of flights de
 
 ### Error Response: 400 Bad Request
 Checked for various invalid formats, i.e., 'flights' should be of two elements, start and end.
+  * __Sample error message:__ 'Invalid input format. Expected an array of flight records.'
   
 __________________________________________________________________________________________________________________________________________________________
 ## Step of Work
@@ -94,8 +95,12 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
 
-### References: [^1] [^2] [^3]
+### References and required links: [^1] [^2] [^3] [^4] [^5] [^6]
 
-[^1]: [Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^2]: [JIRA Dashboard](https://navidbinahmed.atlassian.net/jira/software/projects/KAN/boards/1/timeline)
-[^3]: [Problem Assignment](https://docs.google.com/document/d/1aefinJ_T_D785f6sC2Zg4_c8cY3YWQgEUt0wt8PE9Io/edit#heading=h.rlnlxzzcsgwh)
+[^1]: [JavaScript Map Documentation](https://devdocs.io/javascript/global_objects/map)
+[^2]: [Express/Node API Documentation](https://expressjs.com/en/5x/api.html) 
+[^3]: [Repo Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^4]: [JIRA Dashboard](https://navidbinahmed.atlassian.net/jira/software/projects/KAN/boards/1/timeline)
+[^5]: [Problem Assignment](https://docs.google.com/document/d/1aefinJ_T_D785f6sC2Zg4_c8cY3YWQgEUt0wt8PE9Io/edit#heading=h.rlnlxzzcsgwh)
+[^6]: YouTube, ChatGpt, WWW
+ 
