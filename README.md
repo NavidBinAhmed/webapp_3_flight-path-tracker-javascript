@@ -77,7 +77,7 @@ D. **Versioning & Documentation**
 Created README.md, and to track the progress and timing used [JIRA documentation](https://navidbinahmed.atlassian.net/jira/software/projects/KAN/boards/1/timeline).
 
 __________________________________________________________________________________________________________________________________________________________
-## Time Requiredment 
+## Time Requirement 
 - 0.5 hours : 7:10 pm to 7:30 pm
 - 0.5 hours : around 7:30 to 8 pm
 - 4:12 hours : 10:54 pm to 3:06 am 
