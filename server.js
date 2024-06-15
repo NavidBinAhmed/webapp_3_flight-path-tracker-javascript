@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 app.post('/calculate', (req, res) => {
     const flights = req.body.flights;
     if (!Array.isArray(flights)) {
-        return res.status(400).json({ error: 'Invalid input format. Expected an array of flight records.' });
+        return res.status(400).json({ error: 'Invalid input format, an array of flight records required.' });
     }
 
     const result = findFlightPath(flights);
