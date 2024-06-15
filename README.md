@@ -94,7 +94,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
 
-### References:
+### References: [^1] [^2] [^3]
 
 [^1]: [Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^2]: [JIRA Dashboard](https://navidbinahmed.atlassian.net/jira/software/projects/KAN/boards/1/timeline)
