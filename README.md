@@ -23,7 +23,7 @@ A. **Development** : VS Code, JavaScript
 
 1. Created a specified folder "JavaScript Flight Path Tracker" on local machine, H:/
 
-2.Opened VS Code via command terminal in the specified folder
+2. Opened VS Code via command terminal in the specified folder
 
 3. Initialized the project via 'bash'' terminal running the following commands
     mkdir flight-path-tracker
