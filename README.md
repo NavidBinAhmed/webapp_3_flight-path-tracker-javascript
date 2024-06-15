@@ -80,7 +80,7 @@ ________________________________________________________________________________
 ## Time Requiredment 
 - 0.5 hours : 7:10 pm to 7:30 pm
 - 0.5 hours : around 7:30 to 8 pm
-- 3:22 hours : 10:54 pm to 2:16 am 
+- 4:02 hours : 10:54 pm to 2:56 am 
 __________________________________________________________________________________________________________________________________________________________
 ## Problem Statement
 
@@ -103,5 +103,3 @@ ________________________________________________________________________________
 [^4]: [JIRA Dashboard](https://navidbinahmed.atlassian.net/jira/software/projects/KAN/boards/1/timeline)
 [^5]: [Problem Assignment](https://docs.google.com/document/d/1aefinJ_T_D785f6sC2Zg4_c8cY3YWQgEUt0wt8PE9Io/edit#heading=h.rlnlxzzcsgwh)
 [^6]: YouTube, ChatGpt, WWW
- 
-
