@@ -40,10 +40,10 @@ HP@DESKTOP - 9LVHOGF MINGW64 /h/JavaScript Flight Path Tracker/flight-path-track
 6. Created server with express js and set up the '/calculate' API endpoint on "server.js"
 
 B. **Running the server locally (pre-testing)**
-1. Installed dependancy 'npm' on 'bash' terminal using the below command:
+1. Installation of the dependancy 'npm' on 'bash' terminal using the below command:
        'npm install'
    
-3. Started the server"
+3. Starting the server:
        'node server.js'
 
 4. 'Flight path tracker listening on port 8080' appears as follows:
