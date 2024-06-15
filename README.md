@@ -70,12 +70,13 @@ Checked the performance of API on Postman locally and it worked as expected for 
 Tested for the direct, multiple, and complex flights.
 
 D. **Versioning & Documentation**
-Created README.md, and to track the progress and timing used JIRA documentation.
+Created README.md, and to track the progress and timing used [JIRA documentation](https://navidbinahmed.atlassian.net/jira/software/projects/KAN/boards/1/timeline).
 
-E. **Time Required:** 
-0.5 hours : 7:10 pm to 7:30 pm
-0.5 hours : around 7:30 to 8 pm
-3:07 hours : 10:54 pm to 2:01 am
+__________________________________________________________________________________________________________________________________________________________
+## Time Requiredment 
+- 0.5 hours : 7:10 pm to 7:30 pm
+- 0.5 hours : around 7:30 to 8 pm
+- 3:22 hours : 10:54 pm to 2:16 am 
 __________________________________________________________________________________________________________________________________________________________
 ## Problem Statement
 
