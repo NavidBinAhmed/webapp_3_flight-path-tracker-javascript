@@ -1,5 +1,8 @@
+/** Serves as a fuction to sort flight records to determine the path,
+by using JS Map object for route identification. */
+
 function findFlightPath(flights) {
-    const startMap = new Map();  //js map for route identification
+    const startMap = new Map();
     const endMap = new Map();
 
 
@@ -9,7 +12,6 @@ function findFlightPath(flights) {
     });
 
     // illustrates the starting airport 
-    // source of flight path
     let start;
     for (let [key] of startMap) {
         if (!endMap.has(key)) {

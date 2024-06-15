@@ -66,11 +66,10 @@ B. **Running the server locally (pre-testing)**
 3. 'Flight path tracker listening on port 8080' appears as follows:
    ![local_output](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/d606b5a7-e779-451a-bcc1-261b987d60f1)
 __________________________________________________________________________________________________________________________________________________________
-## Time Requirement 
-- 0.30 hours : 7:10 pm to 7:30 pm
-- 0.30 hours : around 7:30 to 8 pm
+## Time Requirement : appr 5 hours
+- appr 0.20 hours : 7:10 pm to 7:20 pm 
 - 4:12 hours : 10:54 pm to 3:06 am 
-- 0.18 hours : 4:25 am to 4:43 am
+- appr 0.30 hours : 4:25 am up to 5:16 am 
 __________________________________________________________________________________________________________________________________________________________
 
 ### References and required links: [^1] [^2] [^3] [^4] [^5] [^6]

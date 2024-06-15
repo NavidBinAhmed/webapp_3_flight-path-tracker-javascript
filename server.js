@@ -1,3 +1,7 @@
+/** This handles HTTP requests to calculate the flight path setting up 
+ express server with the given API endpoint. */
+
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const findFlightPath = require('./findFlightPath');
