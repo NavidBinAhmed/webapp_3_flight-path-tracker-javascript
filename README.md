@@ -90,3 +90,9 @@ ________________________________________________________________________________
 [['IND', 'EWR'], ['SFO', 'ATL'], ['GSO', 'IND'], ['ATL', 'GSO']]                    => ['SFO', 'EWR']
 
 __________________________________________________________________________________________________________________________________________________________
+
+### References: [^1] [^2].
+
+[^1]: [Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^2]:
+[^3]:
