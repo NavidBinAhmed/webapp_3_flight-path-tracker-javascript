@@ -7,11 +7,11 @@ On a broader sense, the API accepts a request that contains a list of flights de
 ### Calculate Flight Path- API Endpoint: '/calculate'
 ### Method: 'POST'
 ### Request Format:
- * Content Type: 'application/json'
- * Body: 'Flights' contains an array of records as pair(s) in IATA format
+ * __Content Type:__ 'application/json'
+ * __Body:__ 'Flights' contains an array of records as pair(s) in IATA format
 ### Response Format:
- * Content Type: 'application/json'
- * Body: A JSON array with sorted, and compact flight path (as tested and shown below in 'Testing' section)
+ * __Content Type:__ 'application/json'
+ * __Body:__ A JSON array with sorted, and compact flight path (as tested and shown below in 'Testing' section)
 
 ### Error Response: 400 Bad Request
 Checked for various invalid formats, i.e., 'flights' should be of two elements, start and end.
