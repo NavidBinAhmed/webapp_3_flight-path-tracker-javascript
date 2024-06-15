@@ -1,5 +1,4 @@
-# Define and document the format of the API endpoint in the README.
-
+# Define and document the format of the API endpoint
 
 
 
