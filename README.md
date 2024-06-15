@@ -51,7 +51,8 @@ B.**Running the server locally (pre-testing)**
 
 
 C. **Testing** : Postman
-Checked the API on Postman locally and worked as expected for different use cases:
+
+Checked the performance of API on Postman locally and it worked as expected for different use cases and scenarios:
 ![flightpathapi](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/0d5e10f9-bb41-4d7c-a3bc-a65ac977b42b)
 
 1. On Postman:name the project or request to be made
