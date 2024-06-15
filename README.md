@@ -1,4 +1,3 @@
-# JavaScript-flight-path-tracker
 # Flight Path Tracker Microservice API Documentation : format of the API endpoint
 
 ## Overview
