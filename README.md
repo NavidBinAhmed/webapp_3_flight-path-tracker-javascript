@@ -53,9 +53,10 @@ B. **Running the server locally (pre-testing)**
 C. **Testing** : Postman
 
 Checked the performance of API on Postman locally and it worked as expected for different use cases and scenarios:
-![flightpathapi](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/0d5e10f9-bb41-4d7c-a3bc-a65ac977b42b)
+![flightpathapi](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/5d1f018e-5673-4475-900c-c8f4f1254381)
 
-1. On Postman:name the project or request to be made
+
+1. On Postman, locally installed: name the project or request to be made
 2. 'New' > Select 'POST' > Enter URL 'http://localhost:8080/calculate'
 3. 'Body' > 'raw' & 'JSON' 
    {
@@ -64,10 +65,12 @@ Checked the performance of API on Postman locally and it worked as expected for 
         ["SFO", "ATL"]
     ]
 }
-5. Clicking 'send' output the following as expected:
+With various use cases, this JSON format changes.
+ 
+5. Clicking the 'send' outputs the following, as expected:
    ["SFO", "EWR"]
 
-Tested for the direct, multiple, and complex flights.
+Tested for various use cases, for example: the direct, multiple, and complex flights.
 
 D. **Versioning & Documentation**
 Created README.md, and to track the progress and timing used [JIRA documentation](https://navidbinahmed.atlassian.net/jira/software/projects/KAN/boards/1/timeline).
@@ -91,8 +94,8 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
 
-### References: [^1] [^2].
+### References:
 
 [^1]: [Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^2]:
-[^3]:
+[^2]: [JIRA Dashboard](https://navidbinahmed.atlassian.net/jira/software/projects/KAN/boards/1/timeline)
+[^3]: [Problem Assignment](https://docs.google.com/document/d/1aefinJ_T_D785f6sC2Zg4_c8cY3YWQgEUt0wt8PE9Io/edit#heading=h.rlnlxzzcsgwh)
