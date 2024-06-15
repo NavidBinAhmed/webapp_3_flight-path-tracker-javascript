@@ -86,5 +86,5 @@ ________________________________________________________________________________
 [^3]: [Repo Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [^4]: [JIRA Dashboard](https://navidbinahmed.atlassian.net/jira/software/projects/KAN/boards/1/timeline)
 [^5]: [Problem Assignment](https://docs.google.com/document/d/1aefinJ_T_D785f6sC2Zg4_c8cY3YWQgEUt0wt8PE9Io/edit#heading=h.rlnlxzzcsgwh)
-[^6]: YouTube, ChatGpt, WWW
+[^6]: [YouTube, ChatGpt, WWW](https://google.com)
  
