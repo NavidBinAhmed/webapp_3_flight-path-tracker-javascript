@@ -23,6 +23,11 @@ Checked for various invalid formats, i.e., 'flights' should be of two elements, 
 Checked the performance of API on Postman locally and it worked as expected for different use cases and scenarios:
 ![flightpathapi](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/5d1f018e-5673-4475-900c-c8f4f1254381)
 
+
+Airports and cities I typically stepped in taking multiple flights: It worked amazingly as expected! 
+![flight path api 2](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/d7f79241-69a9-46e2-b076-e031edc8160b)
+
+
 1. On Postman, locally installed: name the project or request to be made
 2. 'New' > Select 'POST' > Enter URL 'http://localhost:8080/calculate'
 3. 'Body' > 'raw' & 'JSON' 
@@ -64,8 +69,8 @@ B. **Running the server locally (pre-testing)**
 2. Starting the server:
        'node server.js'
 3. 'Flight path tracker listening on port 8080' appears as follows:
-   ![local_output](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/d606b5a7-e779-451a-bcc1-261b987d60f1)
-__________________________________________________________________________________________________________________________________________________________
+![local_output](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/eca41b30-d9a8-4558-adf4-2d55ff213f65)
+________________________________________________________________________________________________________________________________________________________
 ## Time Requirement : appr 5 hours
 - appr 0.20 hours : 7:10 pm to 7:20 pm 
 - 4:12 hours : 10:54 pm to 3:06 am 
