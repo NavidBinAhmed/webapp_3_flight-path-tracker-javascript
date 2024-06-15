@@ -1,5 +1,5 @@
 function findFlightPath(flights) {
-    const startMap = new Map();  //map object is used for route identification
+    const startMap = new Map();  //js map object is used for route identification
     const endMap = new Map();
 
 
