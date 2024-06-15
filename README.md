@@ -4,9 +4,7 @@
 The created API for Flight Path Tracker as a microservice helps track and determine a passenger's flight path based on a list of unordered pair(s) of flight records, source and arrival points.
 On a broader sense, the API accepts a request that contains a list of flights defined by source and destination airport codes (IATA), sorts them, and returns the complete, compact, and viable flight path from take-off to the destination arrival airports.
 
-## API Endpoint
-
-## Calculate Flight Path- Endpoint: '/calculate'
+### Calculate Flight Path- API Endpoint: '/calculate'
 ### Method: 'POST'
 ### Request Format:
  * Content Type: 'application/json'
