@@ -31,12 +31,14 @@ Airports and cities I typically stepped in taking multiple flights: It worked am
 1. On Postman, locally installed: name the project or request to be made
 2. 'New' > Select 'POST' > Enter URL 'http://localhost:8080/calculate'
 3. 'Body' > 'raw' & 'JSON' 
+
    {
     "flights": [
         ["ATL", "EWR"],
         ["SFO", "ATL"]
     ]
 }
+
 With various use cases, this JSON format changes.
  
 5. Clicking the 'send' outputs the following, as expected:
