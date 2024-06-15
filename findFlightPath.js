@@ -1,6 +1,7 @@
 function findFlightPath(flights) {
-    const startMap = new Map();
+    const startMap = new Map();  //map object is used for route identification
     const endMap = new Map();
+
 
     flights.forEach(([start, end]) => {
         startMap.set(start, end);
@@ -15,7 +16,7 @@ function findFlightPath(flights) {
             break;
         }
     }
-
+    
     // Sort the flight path
     const path = [];
     while (start) {
