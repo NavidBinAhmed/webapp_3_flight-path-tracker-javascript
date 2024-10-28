@@ -1,4 +1,5 @@
-# Flight Path Tracker Microservice API Documentation : format of the API endpoint
+# Flight Path Tracker Microservice API
+Here is a detail doc for the format of the API endpoint
 
 ## Overview
 The created API for Flight Path Tracker as a microservice helps track and determine a passenger's flight path based on a list of unordered pair(s) of flight records, source and arrival points.
@@ -49,7 +50,8 @@ ________________________________________________________________________________
 
 ## Flow of Work
 
-A. **Development** : VS Code, JavaScript
+A. **Development** :
+[![Tools](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
 
 1. Created a specified folder "JavaScript Flight Path Tracker" on local machine, H:/
 2. Opened VS Code via command terminal in the specified folder
