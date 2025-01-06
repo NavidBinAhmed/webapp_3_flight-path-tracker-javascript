@@ -34,11 +34,11 @@ HP@DESKTOP - 9LVHOGF MINGW64 /h/JavaScript Flight Path Tracker/flight-path-track
 B. **Running the server locally (pre-testing)**
 1. Installation of the dependancy `npm` on `bash` terminal using the below command:
    
-          npm install
+   ```npm install```
    
 2. Starting the server:
    
-          node server.js
+   ```node server.js```
    
 3. 'Flight path tracker listening on port 8080' appears as follows:
 ![local_output](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/eca41b30-d9a8-4558-adf4-2d55ff213f65)
