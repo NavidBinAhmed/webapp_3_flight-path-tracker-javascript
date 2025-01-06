@@ -11,25 +11,35 @@ A. **Tools Used and Steps of Development** :
 
 [![Tools](https://skillicons.dev/icons?i=nodejs,vscode&theme=light)](https://skillicons.dev)
 
-1. Created a specified folder "JavaScript Flight Path Tracker" on local machine, H:/
+1. Created a specified folder `JavaScript Flight Path Tracker` on local machine, H:/
 2. Opened VS Code via command terminal in the specified folder
-3. Initialized the project via 'bash'' terminal running the following commands
-    mkdir flight-path-tracker
-    cd flight-path-tracker
-    npm init -y
-Which appeared this at my VS code terminal:
+3. Initialized the project via `bash` terminal running the following commands
+   
+    ```mkdir flight-path-tracker```
+
+    ```cd flight-path-tracker```
+   
+    ```npm init -y```
+   
+Which follows the following on the VS code terminal prompt:
 HP@DESKTOP - 9LVHOGF MINGW64 /h/JavaScript Flight Path Tracker/flight-path-tracker
 
 4. Installed 2 following packages using the command below: express and body perser
-   npm install express body-parser
-5. Created flight path sourcing logic on "findFlightPath.js" on the same directory
-6. Created server with express js and set up the '/calculate' API endpoint on "server.js"
+
+   ```npm install express body-parser```
+   
+5. Created flight path sourcing logic on `findFlightPath.js` on the same directory
+6. Created server with express js and set up the `/calculate` API endpoint on `server.js`
 
 B. **Running the server locally (pre-testing)**
 1. Installation of the dependancy 'npm' on 'bash' terminal using the below command:
-       'npm install'
+   
+       ```npm install```
+   
 2. Starting the server:
-       'node server.js'
+   
+       ```node server.js```
+   
 3. 'Flight path tracker listening on port 8080' appears as follows:
 ![local_output](https://github.com/NavidBinAhmed/JavaScript-flight-path-tracker/assets/45857107/eca41b30-d9a8-4558-adf4-2d55ff213f65)
 ________________________________________________________________________________________________________________________________________________________
