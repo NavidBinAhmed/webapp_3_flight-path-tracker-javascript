@@ -1,4 +1,4 @@
-# Flight Path Tracker Microservice RESTful API
+# Flight Path Tracker Microservice API
 Here is a detail doc for the format of the API endpoint
 
 ## Overview
