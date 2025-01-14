@@ -1,4 +1,4 @@
-# Flight Path Tracker Microservice API
+# Flight Path Tracker Microservice API using Node.JS (Express)
 Here is a detail doc for the format of the API endpoint
 
 ## Overview
